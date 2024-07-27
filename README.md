@@ -1,1 +1,1 @@
-mwkii tas comp bot (not optimized code)
+mwkii tas comp bot (outdated and useless)
